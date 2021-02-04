@@ -22,4 +22,15 @@ Biryani is a classic **Indian mixed rice** dish that is part of the **Indian Mug
 911. Add mint leaves and fried onions and some coriander to it.
 101. keep the cooker lid and wait for 2 whistle.
 114. biryani is ready to eat.
-
+#### List of required items:
+- 1 bay leaf.
+- 4 green cardomoms.
+- 6 cloves.
+    - 1 inch cinnamon piece.
+    - 1 star anise.
+    - 3/4 teaspoon shahi jeera.
+- 1 strand mace.
+- 1/4 cup yogurt.
+- 1 teaspoon garam masala.
+- 1 slit green chilli pepper.
+- 2 tablespoons chopped mint leaves.<br>
