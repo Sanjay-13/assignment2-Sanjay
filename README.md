@@ -34,3 +34,21 @@ Biryani is a classic **Indian mixed rice** dish that is part of the **Indian Mug
 - 1 teaspoon garam masala.
 - 1 slit green chilli pepper.
 - 2 tablespoons chopped mint leaves.<br>
+[Profile](AboutMe.md)
+
+***
+## Tourist Places
+
+
+India is a vibrant land of startling contrasts where both the traditional and modern worlds meet. Below are best places among those.
+
+ Location    | Number of Hours | Amount of Money
+--- | --- | ---
+ Leh Ladakh | 120 hours | 400$
+ Goa | 96 hours | 300$
+ Munnar | 120 hours | 350$
+ Bangalore | 96 hours | 300$
+
+  ---
+
+ 
