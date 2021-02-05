@@ -77,3 +77,7 @@ unlet i
 ```
 
 Vim Script Code Reference <https://en.wikipedia.org/wiki/Vim_(text_editor)#Vim_script>
+
+![Dum biryani](images/chicken-biryani-recipe.jpg)
+![Boneless biryani](images/1568143107638.jpeg)
+![Ulavacharu biryani](images/Oven-Baked-Chicken-Biryani-1.jpg)
